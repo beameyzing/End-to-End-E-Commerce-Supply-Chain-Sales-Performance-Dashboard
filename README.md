@@ -1,3 +1,14 @@
+# Olist E-Commerce Supply Chain & Sales Performance Dashboard
+
+[![Tableau](https://img.shields.io/badge/Tableau-View_Live_Dashboard-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/amey.yadav/viz/OlistE-CommerceSupplyChainCommercialDashboard/OlistE-CommerceSupplyChainCommercialDashboard)
+
+## 🔗 Quick Links
+* **Live Dashboard:** [Tableau Public Live View](https://public.tableau.com/app/profile/amey.yadav/viz/OlistE-CommerceSupplyChainCommercialDashboard/OlistE-CommerceSupplyChainCommercialDashboard)
+
+## 📊 Live Interactive Preview
+[![Olist Dashboard Preview](./assets/dashboard_preview.png)](https://public.tableau.com/app/profile/amey.yadav/viz/OlistE-CommerceSupplyChainCommercialDashboard/OlistE-CommerceSupplyChainCommercialDashboard)
+*Click the preview image above to interact with filters and state mappings.*
+
 # End-to-End-E-Commerce-Supply-Chain-Sales-Performance-Dashboard
 I built this interactive dashboard using 99k+ real-world transactions from Olist to help executive leadership pinpoint fulfillment bottlenecks and profit leaks across Brazil's e-commerce network.
 1. Business Problem
