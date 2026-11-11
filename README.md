@@ -6,7 +6,7 @@
 * **Live Dashboard:** [Tableau Public Live View](https://public.tableau.com/app/profile/amey.yadav/viz/OlistE-CommerceSupplyChainCommercialDashboard/OlistE-CommerceSupplyChainCommercialDashboard)
 
 ## 📊 Live Interactive Preview
-[![Olist Dashboard Preview](./assets/dashboard_preview.png)](https://public.tableau.com/app/profile/amey.yadav/viz/OlistE-CommerceSupplyChainCommercialDashboard/OlistE-CommerceSupplyChainCommercialDashboard)
+[![Olist Dashboard Preview](./dashboard_preview.png)](https://public.tableau.com/app/profile/amey.yadav/viz/OlistE-CommerceSupplyChainCommercialDashboard/OlistE-CommerceSupplyChainCommercialDashboard)
 *Click the preview image above to interact with filters and state mappings.*
 
 # End-to-End-E-Commerce-Supply-Chain-Sales-Performance-Dashboard
